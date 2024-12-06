@@ -1,0 +1,9 @@
+/* css styles */
+.navbar-brand img{
+  max-height: 50px;
+  height: auto;
+  width: auto;
+}
+body {
+  text-align: justify;
+}

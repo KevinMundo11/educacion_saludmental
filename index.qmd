@@ -1,0 +1,24 @@
+---
+title: "Explorando la Relación entre Salud Mental y Educación"
+jupyter: python3
+date: 12/4/2024
+number-sections: false 
+---
+
+## Introducción
+
+::: {style="text-align: justify"}
+En 2023, en el mundo 800,000 personas se quitaron la vida y cerca de 20 Millones lo intentan, la depresión está presente en 2 de cada 3 suicidios, además de otros trastornos como la ansiedad y el trastorno bipolar están relacionados con el suicidio, el cual es la segunda causa de muerte en la población de entre 15 a 29 años, los plaguicidas, el ahorcamiento, las armas de fuego y arrojarse a las vías del metro son las principales causas de muerte por suicidio en México ([ver](https://www.iapa.cdmx.gob.mx/comunicacion/nota/hablemos-de-suicidio-cambiemos-la-narrativa)) . Mientras que la alfabetización empodera a las personas y mejora la vida al ampliar sus capacidades. Reduce la pobreza, aumenta la participación en el mercado laboral y tiene efectos positivos en la salud y el desarrollo sostenible. Las mujeres alfabetizadas provocan un efecto dominó positivo en todos los aspectos del desarrollo. Tienen mayores opciones de vida para sí mismas y una repercusión inmediata en la salud y la educación de sus familias y, en particular, en la educación de las niñas ([ver](https://www.unesco.org/es/articles/alfabetismo-infantil-de-aprendizajes-fundamentales-clave-para-transformar-mexico)). Aunque aparentemente no relacionados, ¿qué sucede cuando exploramos la conexión entre la salud mental y la educación?
+
+La salud mental afecta directamente cómo pensamos, sentimos y actuamos en nuestra vida diaria. Pero cuando este bienestar se ve comprometido, no solo nuestra calidad de vida sufre: también impacta nuestro rendimiento académico y laboral, las oportunidades de desarrollo, e incluso la capacidad para leer y escribir. ¿Podría una buena salud mental ser clave para mejorar los índices educativos en nuestro país?
+
+A través de datos recopilados de la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) y la Encuesta Nacional de Salud y Nutrición (ENSANUT), este proyecto busca responder preguntas críticas:
+
+-   ¿Cómo influyen sentimientos como tristeza o depresión en la alfabetización?
+
+-   ¿Podemos identificar patrones en diferentes generaciones o contextos sociales?
+
+-   ¿Qué hábitos, como el tabaquismo o el consumo de alcohol, podrían exacerbar esta problemática?
+
+Este análisis no solo tiene como objetivo entender mejor la relación entre salud mental y educación, sino también abrir un diálogo sobre la importancia de abordar estos temas de forma conjunta. Con un dashboard interactivo diseñado para ser claro y accesible, queremos revelar insights que no solo informen, sino que también inspiren acciones concretas para mejorar el bienestar y el futuro educativo de nuestra población.
+:::

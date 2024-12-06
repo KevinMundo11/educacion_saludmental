@@ -1,0 +1,63 @@
+---
+title: "Narrativa de la historia"
+jupyter: python3
+---
+
+## Exposición del problema
+
+La salud mental y la educación son dos pilares fundamentales para el desarrollo de las personas y las comunidades. Sin embargo, estas áreas son comúnmente tratadas por separado. Este análisis busca explorar la conexión entre ambas, utilizando datos representativos de México para responder preguntas críticas:
+
+-   ¿Cómo influye la salud mental en los niveles de alfabetización?
+
+-   ¿Existen diferencias generacionales en la disposición para hablar de salud mental?
+
+-   ¿Qué factores externos, como el alcoholismo o tabaquismo, podrían impactar la alfabetización?
+
+## Datos
+
+Para abordar estas preguntas, se analizaron las encuestas ENIGH y ENSANUT de 2018, 2020 y 2022. Los datos fueron agrupados por generaciones, basándose en diciembre de 2024:
+
+-   **Z:** 10-19 años.
+
+-   **Milenial:** 20-35 años.
+
+-   **X:** 36-51 años.
+
+-   **Baby Boomer:** 52-70 años.
+
+-   **Silent:** 71-91 años.
+
+-   **Greatest:** 92 años en adelante.
+
+Las variables clave incluyen:
+
+-   Alfabetización (ENIGH).
+
+-   Indicadores de salud mental, como tristeza, depresión y tendencias suicidas (ENSANUT).
+
+-   Hábitos relacionados con alcoholismo y tabaquismo (ENSANUT).
+
+## Resultados
+
+El análisis reveló que algunos supuestos iniciales fueron desafiados por los datos:
+
+1.  **Disposición a hablar sobre salud mental:**\
+    Las generaciones Silent y Greatest (70 años en adelante) mostraron una mayor proporción de respuestas indicando tristeza o depresión en comparación con las generaciones más jóvenes. Esto contradice la idea de que los adultos mayores son más reservados para hablar de su salud mental.
+
+    En contraste, las generaciones Milenial y Z presentaron un porcentaje ligeramente mayor de intentos de suicidio reportados. Un mapa interactivo ilustró cómo esta tendencia varió geográficamente, destacando un aumento en los estados con promedios altos de intentos de suicidio entre 2018 y 2022, posiblemente influido por la pandemia.
+
+2.  **Impacto del alcoholismo y tabaquismo en la alfabetización:**\
+    No se encontró una relación directa entre los hábitos de consumo de alcohol y el nivel de alfabetización. Los mapas mostraron que los estados con mayor consumo de alcohol no coinciden con aquellos con menores niveles de alfabetización, sugiriendo que otros factores, como los recursos económicos, podrían ser más relevantes.
+
+3.  **Diferencias generacionales en alfabetización:**\
+    Aquí, los datos respaldaron el supuesto. Las generaciones Greatest y Silent tienen los porcentajes más bajos de alfabetización, mientras que las generaciones Z y Milenial presentan niveles más altos. Esto sugiere que el acceso a la educación ha mejorado significativamente en las últimas décadas.
+
+## Conclusiones
+
+-   La disposición a hablar de salud mental no siempre sigue patrones generacionales esperados. Las generaciones mayores pueden ser más abiertas al respecto de lo que se pensaba.
+
+-   Los hábitos de alcoholismo y tabaquismo no parecen ser un factor determinante en la alfabetización, pero destacan áreas de interés para estudios futuros.
+
+-   Las diferencias en alfabetización entre generaciones reflejan el progreso en acceso a la educación, pero también destacan la necesidad de atender las brechas existentes en generaciones mayores.
+
+Este análisis demuestra que la relación entre salud mental y educación es más compleja de lo que los supuestos iniciales sugerían. Si bien la alfabetización ha mejorado con el tiempo, persisten desafíos en la salud mental, especialmente entre los jóvenes. Este dashboard busca no solo informar, sino también sensibilizar a los tomadores de decisiones y al público general sobre la importancia de tratar estos temas de forma conjunta. Al abordar estas problemáticas, se pueden diseñar políticas y programas más inclusivos y efectivos para mejorar tanto la salud mental como la educación en México.

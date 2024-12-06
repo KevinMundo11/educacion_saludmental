@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  #title: "EDUCACIONSALUDMENTAL"
+  favicon: img/logo1.png
+  image: img/logo1.png
+  repo-url: https://github.com/IsaacSebastian/ingCaracteristicasProyecto_
+  repo-actions: [edit, issue, source]
+  open-graph: true
+  twitter-card: true
+  page-navigation: true
+  back-to-top-navigation: true
+  page-footer:
+    border: true
+    left: | 
+      Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/).
+    center: |
+      Copyright &copy; [2024](https://github.com/IsaacSebastian/ingCaracteristicasProyecto_) [Federico Cirett Torres](https://www.linkedin.com/in/federico-cirett-torres-11908628b/), [Kevin Garcia Mundo](https://www.linkedin.com/in/kevin-garcia-mundo/), [Sebastián Isaac Vega Robles](https://www.linkedin.com/in/sebasti%C3%A1n-isaac-vega-robles-860962265/).
+    right: |
+      Bajo [Licencia MIT](https://github.com/IsaacSebastian/ingCaracteristicasProyecto_/blob/main/LICENSE).
+
+  navbar:
+    search: true
+    logo: img/logo1.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: audiencia.qmd
+        text: Fundamentación
+      - href: storyboard.qmd
+        text: Storyboard
+      - href: metricas.qmd
+        text: Metricas
+      - href: metricas_1.qmd
+        text: Metricas1
+
+format:
+  html:
+    theme: 
+      light: cerulean
+      dark: superhero
+    css: styles.css
+    toc: true
+    number-sections: true
+
+
+editor: visual
+

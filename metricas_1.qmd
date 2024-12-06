@@ -1,0 +1,38 @@
+---
+title: "Definición de Métricas"
+jupyter: python3
+---
+
+## Métricas principales
+
+1.  **Alfabetización por generación**
+
+-   **Definición:** Porcentaje de personas alfabetas dentro de cada generación.
+
+-   **Fórmula:** (Personas alfabetas / Total de personas encuestadas) \* 100.
+
+-   **Fuente:** ENIGH 2018, 2020, 2022.
+
+-   **Importancia:** Responde directamente a la hipótesis sobre alfabetización por edad.
+
+2.  **Tristeza o depresión por generación**
+
+-   **Definición:** Porcentaje de personas que reportaron sentirse tristes o deprimidas durante la semana, dividido por generación.
+
+-   **Fórmula:** (Personas que reportaron tristeza / Total de encuestados) \* 100.
+
+-   **Fuente:** ENSANUT 2018, 2020, 2022.
+
+-   **Importancia:** Responde a la hipótesis sobre disposición generacional para hablar de salud mental.
+
+## Métricas contextuales
+
+1.  **Consumo de alcohol por generación**
+
+-   **Definición:** Porcentaje de personas que consumen alcohol al menos una vez a la semana, dividido por generación.
+
+-   **Fórmula:** (Personas que consumen alcohol / Total de encuestados) \* 100.
+
+-   **Fuente:** ENSANUT 2018, 2020, 2022.
+
+-   **Rol:** Complementa el análisis sobre hábitos y alfabetización.

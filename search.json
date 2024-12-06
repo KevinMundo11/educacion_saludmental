@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "storyboard.html",
+    "href": "storyboard.html",
+    "title": "Narrativa de la historia",
+    "section": "",
+    "text": "La salud mental y la educación son dos pilares fundamentales para el desarrollo de las personas y las comunidades. Sin embargo, estas áreas son comúnmente tratadas por separado. Este análisis busca explorar la conexión entre ambas, utilizando datos representativos de México para responder preguntas críticas:\n\n¿Cómo influye la salud mental en los niveles de alfabetización?\n¿Existen diferencias generacionales en la disposición para hablar de salud mental?\n¿Qué factores externos, como el alcoholismo o tabaquismo, podrían impactar la alfabetización?"
+  },
+  {
+    "objectID": "storyboard.html#exposición-del-problema",
+    "href": "storyboard.html#exposición-del-problema",
+    "title": "Narrativa de la historia",
+    "section": "",
+    "text": "La salud mental y la educación son dos pilares fundamentales para el desarrollo de las personas y las comunidades. Sin embargo, estas áreas son comúnmente tratadas por separado. Este análisis busca explorar la conexión entre ambas, utilizando datos representativos de México para responder preguntas críticas:\n\n¿Cómo influye la salud mental en los niveles de alfabetización?\n¿Existen diferencias generacionales en la disposición para hablar de salud mental?\n¿Qué factores externos, como el alcoholismo o tabaquismo, podrían impactar la alfabetización?"
+  },
+  {
+    "objectID": "storyboard.html#datos",
+    "href": "storyboard.html#datos",
+    "title": "Narrativa de la historia",
+    "section": "2 Datos",
+    "text": "2 Datos\nPara abordar estas preguntas, se analizaron las encuestas ENIGH y ENSANUT de 2018, 2020 y 2022. Los datos fueron agrupados por generaciones, basándose en diciembre de 2024:\n\nZ: 10-19 años.\nMilenial: 20-35 años.\nX: 36-51 años.\nBaby Boomer: 52-70 años.\nSilent: 71-91 años.\nGreatest: 92 años en adelante.\n\nLas variables clave incluyen:\n\nAlfabetización (ENIGH).\nIndicadores de salud mental, como tristeza, depresión y tendencias suicidas (ENSANUT).\nHábitos relacionados con alcoholismo y tabaquismo (ENSANUT)."
+  },
+  {
+    "objectID": "storyboard.html#resultados",
+    "href": "storyboard.html#resultados",
+    "title": "Narrativa de la historia",
+    "section": "3 Resultados",
+    "text": "3 Resultados\nEl análisis reveló que algunos supuestos iniciales fueron desafiados por los datos:\n\nDisposición a hablar sobre salud mental:\nLas generaciones Silent y Greatest (70 años en adelante) mostraron una mayor proporción de respuestas indicando tristeza o depresión en comparación con las generaciones más jóvenes. Esto contradice la idea de que los adultos mayores son más reservados para hablar de su salud mental.\nEn contraste, las generaciones Milenial y Z presentaron un porcentaje ligeramente mayor de intentos de suicidio reportados. Un mapa interactivo ilustró cómo esta tendencia varió geográficamente, destacando un aumento en los estados con promedios altos de intentos de suicidio entre 2018 y 2022, posiblemente influido por la pandemia.\nImpacto del alcoholismo y tabaquismo en la alfabetización:\nNo se encontró una relación directa entre los hábitos de consumo de alcohol y el nivel de alfabetización. Los mapas mostraron que los estados con mayor consumo de alcohol no coinciden con aquellos con menores niveles de alfabetización, sugiriendo que otros factores, como los recursos económicos, podrían ser más relevantes.\nDiferencias generacionales en alfabetización:\nAquí, los datos respaldaron el supuesto. Las generaciones Greatest y Silent tienen los porcentajes más bajos de alfabetización, mientras que las generaciones Z y Milenial presentan niveles más altos. Esto sugiere que el acceso a la educación ha mejorado significativamente en las últimas décadas."
+  },
+  {
+    "objectID": "storyboard.html#conclusiones",
+    "href": "storyboard.html#conclusiones",
+    "title": "Narrativa de la historia",
+    "section": "4 Conclusiones",
+    "text": "4 Conclusiones\n\nLa disposición a hablar de salud mental no siempre sigue patrones generacionales esperados. Las generaciones mayores pueden ser más abiertas al respecto de lo que se pensaba.\nLos hábitos de alcoholismo y tabaquismo no parecen ser un factor determinante en la alfabetización, pero destacan áreas de interés para estudios futuros.\nLas diferencias en alfabetización entre generaciones reflejan el progreso en acceso a la educación, pero también destacan la necesidad de atender las brechas existentes en generaciones mayores.\n\nEste análisis demuestra que la relación entre salud mental y educación es más compleja de lo que los supuestos iniciales sugerían. Si bien la alfabetización ha mejorado con el tiempo, persisten desafíos en la salud mental, especialmente entre los jóvenes. Este dashboard busca no solo informar, sino también sensibilizar a los tomadores de decisiones y al público general sobre la importancia de tratar estos temas de forma conjunta. Al abordar estas problemáticas, se pueden diseñar políticas y programas más inclusivos y efectivos para mejorar tanto la salud mental como la educación en México."
+  },
+  {
+    "objectID": "metricas.html",
+    "href": "metricas.html",
+    "title": "Definición de Métricas",
+    "section": "",
+    "text": "Alfabetización por generación\n\n\nDefinición: Porcentaje de personas alfabetas dentro de cada generación.\nFórmula: (Personas alfabetas / Total de personas encuestadas) * 100.\nFuente: ENIGH 2018, 2020, 2022.\nImportancia: Responde directamente a la hipótesis sobre alfabetización por edad.\n\n\nTristeza o depresión por generación\n\n\nDefinición: Porcentaje de personas que reportaron sentirse tristes o deprimidas durante la semana, dividido por generación.\nFórmula: (Personas que reportaron tristeza / Total de encuestados) * 100.\nFuente: ENSANUT 2018, 2020, 2022.\nImportancia: Responde a la hipótesis sobre disposición generacional para hablar de salud mental."
+  },
+  {
+    "objectID": "metricas.html#métricas-principales",
+    "href": "metricas.html#métricas-principales",
+    "title": "Definición de Métricas",
+    "section": "",
+    "text": "Alfabetización por generación\n\n\nDefinición: Porcentaje de personas alfabetas dentro de cada generación.\nFórmula: (Personas alfabetas / Total de personas encuestadas) * 100.\nFuente: ENIGH 2018, 2020, 2022.\nImportancia: Responde directamente a la hipótesis sobre alfabetización por edad.\n\n\nTristeza o depresión por generación\n\n\nDefinición: Porcentaje de personas que reportaron sentirse tristes o deprimidas durante la semana, dividido por generación.\nFórmula: (Personas que reportaron tristeza / Total de encuestados) * 100.\nFuente: ENSANUT 2018, 2020, 2022.\nImportancia: Responde a la hipótesis sobre disposición generacional para hablar de salud mental."
+  },
+  {
+    "objectID": "metricas.html#métricas-contextuales",
+    "href": "metricas.html#métricas-contextuales",
+    "title": "Definición de Métricas",
+    "section": "2 Métricas contextuales",
+    "text": "2 Métricas contextuales\n\nConsumo de alcohol por generación\n\n\nDefinición: Porcentaje de personas que consumen alcohol al menos una vez a la semana, dividido por generación.\nFórmula: (Personas que consumen alcohol / Total de encuestados) * 100.\nFuente: ENSANUT 2018, 2020, 2022.\nRol: Complementa el análisis sobre hábitos y alfabetización."
+  },
+  {
+    "objectID": "audiencia.html",
+    "href": "audiencia.html",
+    "title": "Fundamentación",
+    "section": "",
+    "text": "El dashboard está diseñado para ser accesible y comprensible para una amplia audiencia, incluyendo investigadores, responsables de políticas públicas y ciudadanos interesados. Utiliza gráficos y mapas interactivos acompañados de breves descripciones, facilitando la interpretación de los datos sin necesidad de conocimientos avanzados. Un mapa interactivo ha sido elegido como elemento central por su capacidad para ser más llamativo, ilustrativo y contener información detallada en un formato visualmente atractivo.\nLa historia analiza la relación entre la salud mental y la educación en México, utilizando como base los datos de la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) y la Encuesta Nacional de Salud y Nutrición (ENSANUT). Ambas encuestas son herramientas clave que permiten explorar el bienestar de la población desde diferentes dimensiones.\nLa salud mental es un componente esencial para el bienestar integral de las personas. Afecta no solo su calidad de vida, sino también su desempeño académico y social. Este tema es relevante para audiencias interesadas en educación, salud pública y desarrollo social, ya que destaca cómo los problemas de salud mental pueden repercutir en el nivel educativo de la población, una métrica clave para el progreso.\nEste análisis puede:\n\nInformar políticas públicas orientadas a mejorar la salud mental como un medio para incrementar los niveles de alfabetización.\nInspirar iniciativas de sensibilización sobre la importancia de la salud mental en la educación.\nAyudar a los investigadores a identificar correlaciones para futuros estudios más detallados.\n\nLas encuestas ENSANUT y ENIGH proporcionan información que nos permite explorar la relación entre salud mental y educación. Por ejemplo, preguntas como:\n\n¿Cuántos días sintió tristeza durante esta semana?\n¿Cuántos días sintió depresión durante esta semana?\n¿Alguna vez intentó acabar con su vida?\n\nEstas variables relacionadas con la salud mental pueden correlacionarse con indicadores educativos, como el nivel de alfabetización, extraídos de las mismas encuestas.\nSin embargo, es importante reconocer las limitaciones inherentes a los datos. Las encuestas pueden introducir sesgos de percepción o recuerdo. Además, no incluyen información sobre factores como acceso a servicios de salud mental o discriminación, que podrían enriquecer el análisis. Pese a estas limitaciones, los datos disponibles son suficientemente robustos para explorar patrones y formular hipótesis valiosas que permitan contar esta historia.\nPara guiar el análisis, se proponen las siguientes hipótesis:\n\nAceptación generacional: Los jóvenes son más abiertos a hablar de su salud mental en comparación con los adultos, quienes podrían preferir no responder.\nHábitos y alfabetización: El alcoholismo y el tabaquismo tienen un impacto negativo en la alfabetización.\nDiferencias por edad: La alfabetización disminuye conforme aumenta la edad, mostrando un menor porcentaje de personas mayores alfabetas.\n\nEstas hipótesis se abordan en el dashboard a través de visualizaciones interactivas que exploran cómo las condiciones de salud mental podrían estar asociadas con las métricas educativas.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Explorando la Relación entre Salud Mental y Educación",
+    "section": "",
+    "text": "En 2023, en el mundo 800,000 personas se quitaron la vida y cerca de 20 Millones lo intentan, la depresión está presente en 2 de cada 3 suicidios, además de otros trastornos como la ansiedad y el trastorno bipolar están relacionados con el suicidio, el cual es la segunda causa de muerte en la población de entre 15 a 29 años, los plaguicidas, el ahorcamiento, las armas de fuego y arrojarse a las vías del metro son las principales causas de muerte por suicidio en México (ver) . Mientras que la alfabetización empodera a las personas y mejora la vida al ampliar sus capacidades. Reduce la pobreza, aumenta la participación en el mercado laboral y tiene efectos positivos en la salud y el desarrollo sostenible. Las mujeres alfabetizadas provocan un efecto dominó positivo en todos los aspectos del desarrollo. Tienen mayores opciones de vida para sí mismas y una repercusión inmediata en la salud y la educación de sus familias y, en particular, en la educación de las niñas (ver). Aunque aparentemente no relacionados, ¿qué sucede cuando exploramos la conexión entre la salud mental y la educación?\nLa salud mental afecta directamente cómo pensamos, sentimos y actuamos en nuestra vida diaria. Pero cuando este bienestar se ve comprometido, no solo nuestra calidad de vida sufre: también impacta nuestro rendimiento académico y laboral, las oportunidades de desarrollo, e incluso la capacidad para leer y escribir. ¿Podría una buena salud mental ser clave para mejorar los índices educativos en nuestro país?\nA través de datos recopilados de la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) y la Encuesta Nacional de Salud y Nutrición (ENSANUT), este proyecto busca responder preguntas críticas:\n\n¿Cómo influyen sentimientos como tristeza o depresión en la alfabetización?\n¿Podemos identificar patrones en diferentes generaciones o contextos sociales?\n¿Qué hábitos, como el tabaquismo o el consumo de alcohol, podrían exacerbar esta problemática?\n\nEste análisis no solo tiene como objetivo entender mejor la relación entre salud mental y educación, sino también abrir un diálogo sobre la importancia de abordar estos temas de forma conjunta. Con un dashboard interactivo diseñado para ser claro y accesible, queremos revelar insights que no solo informen, sino que también inspiren acciones concretas para mejorar el bienestar y el futuro educativo de nuestra población."
+  },
+  {
+    "objectID": "index.html#introducción",
+    "href": "index.html#introducción",
+    "title": "Explorando la Relación entre Salud Mental y Educación",
+    "section": "",
+    "text": "En 2023, en el mundo 800,000 personas se quitaron la vida y cerca de 20 Millones lo intentan, la depresión está presente en 2 de cada 3 suicidios, además de otros trastornos como la ansiedad y el trastorno bipolar están relacionados con el suicidio, el cual es la segunda causa de muerte en la población de entre 15 a 29 años, los plaguicidas, el ahorcamiento, las armas de fuego y arrojarse a las vías del metro son las principales causas de muerte por suicidio en México (ver) . Mientras que la alfabetización empodera a las personas y mejora la vida al ampliar sus capacidades. Reduce la pobreza, aumenta la participación en el mercado laboral y tiene efectos positivos en la salud y el desarrollo sostenible. Las mujeres alfabetizadas provocan un efecto dominó positivo en todos los aspectos del desarrollo. Tienen mayores opciones de vida para sí mismas y una repercusión inmediata en la salud y la educación de sus familias y, en particular, en la educación de las niñas (ver). Aunque aparentemente no relacionados, ¿qué sucede cuando exploramos la conexión entre la salud mental y la educación?\nLa salud mental afecta directamente cómo pensamos, sentimos y actuamos en nuestra vida diaria. Pero cuando este bienestar se ve comprometido, no solo nuestra calidad de vida sufre: también impacta nuestro rendimiento académico y laboral, las oportunidades de desarrollo, e incluso la capacidad para leer y escribir. ¿Podría una buena salud mental ser clave para mejorar los índices educativos en nuestro país?\nA través de datos recopilados de la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) y la Encuesta Nacional de Salud y Nutrición (ENSANUT), este proyecto busca responder preguntas críticas:\n\n¿Cómo influyen sentimientos como tristeza o depresión en la alfabetización?\n¿Podemos identificar patrones en diferentes generaciones o contextos sociales?\n¿Qué hábitos, como el tabaquismo o el consumo de alcohol, podrían exacerbar esta problemática?\n\nEste análisis no solo tiene como objetivo entender mejor la relación entre salud mental y educación, sino también abrir un diálogo sobre la importancia de abordar estos temas de forma conjunta. Con un dashboard interactivo diseñado para ser claro y accesible, queremos revelar insights que no solo informen, sino que también inspiren acciones concretas para mejorar el bienestar y el futuro educativo de nuestra población."
+  },
+  {
+    "objectID": "metricas_1.html",
+    "href": "metricas_1.html",
+    "title": "Definición de Métricas",
+    "section": "",
+    "text": "Alfabetización por generación\n\n\nDefinición: Porcentaje de personas alfabetas dentro de cada generación.\nFórmula: (Personas alfabetas / Total de personas encuestadas) * 100.\nFuente: ENIGH 2018, 2020, 2022.\nImportancia: Responde directamente a la hipótesis sobre alfabetización por edad.\n\n\nTristeza o depresión por generación\n\n\nDefinición: Porcentaje de personas que reportaron sentirse tristes o deprimidas durante la semana, dividido por generación.\nFórmula: (Personas que reportaron tristeza / Total de encuestados) * 100.\nFuente: ENSANUT 2018, 2020, 2022.\nImportancia: Responde a la hipótesis sobre disposición generacional para hablar de salud mental."
+  },
+  {
+    "objectID": "metricas_1.html#métricas-principales",
+    "href": "metricas_1.html#métricas-principales",
+    "title": "Definición de Métricas",
+    "section": "",
+    "text": "Alfabetización por generación\n\n\nDefinición: Porcentaje de personas alfabetas dentro de cada generación.\nFórmula: (Personas alfabetas / Total de personas encuestadas) * 100.\nFuente: ENIGH 2018, 2020, 2022.\nImportancia: Responde directamente a la hipótesis sobre alfabetización por edad.\n\n\nTristeza o depresión por generación\n\n\nDefinición: Porcentaje de personas que reportaron sentirse tristes o deprimidas durante la semana, dividido por generación.\nFórmula: (Personas que reportaron tristeza / Total de encuestados) * 100.\nFuente: ENSANUT 2018, 2020, 2022.\nImportancia: Responde a la hipótesis sobre disposición generacional para hablar de salud mental."
+  },
+  {
+    "objectID": "metricas_1.html#métricas-contextuales",
+    "href": "metricas_1.html#métricas-contextuales",
+    "title": "Definición de Métricas",
+    "section": "2 Métricas contextuales",
+    "text": "2 Métricas contextuales\n\nConsumo de alcohol por generación\n\n\nDefinición: Porcentaje de personas que consumen alcohol al menos una vez a la semana, dividido por generación.\nFórmula: (Personas que consumen alcohol / Total de encuestados) * 100.\nFuente: ENSANUT 2018, 2020, 2022.\nRol: Complementa el análisis sobre hábitos y alfabetización."
+  }
+]

@@ -1,0 +1,42 @@
+---
+title: "Fundamentación"
+jupyter: python3
+---
+
+::: {style="text-align; justify"}
+El dashboard está diseñado para ser accesible y comprensible para una amplia audiencia, incluyendo investigadores, responsables de políticas públicas y ciudadanos interesados. Utiliza gráficos y mapas interactivos acompañados de breves descripciones, facilitando la interpretación de los datos sin necesidad de conocimientos avanzados. Un mapa interactivo ha sido elegido como elemento central por su capacidad para ser más llamativo, ilustrativo y contener información detallada en un formato visualmente atractivo.
+
+La historia analiza la relación entre la salud mental y la educación en México, utilizando como base los datos de la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) y la Encuesta Nacional de Salud y Nutrición (ENSANUT). Ambas encuestas son herramientas clave que permiten explorar el bienestar de la población desde diferentes dimensiones.
+
+La salud mental es un componente esencial para el bienestar integral de las personas. Afecta no solo su calidad de vida, sino también su desempeño académico y social. Este tema es relevante para audiencias interesadas en educación, salud pública y desarrollo social, ya que destaca cómo los problemas de salud mental pueden repercutir en el nivel educativo de la población, una métrica clave para el progreso.
+
+Este análisis puede:
+
+1.  Informar políticas públicas orientadas a mejorar la salud mental como un medio para incrementar los niveles de alfabetización.
+
+2.  Inspirar iniciativas de sensibilización sobre la importancia de la salud mental en la educación.
+
+3.  Ayudar a los investigadores a identificar correlaciones para futuros estudios más detallados.
+
+Las encuestas ENSANUT y ENIGH proporcionan información que nos permite explorar la relación entre salud mental y educación. Por ejemplo, preguntas como:
+
+-   ¿Cuántos días sintió tristeza durante esta semana?
+
+-   ¿Cuántos días sintió depresión durante esta semana?
+
+-   ¿Alguna vez intentó acabar con su vida?
+
+Estas variables relacionadas con la salud mental pueden correlacionarse con indicadores educativos, como el nivel de alfabetización, extraídos de las mismas encuestas.
+
+Sin embargo, es importante reconocer las limitaciones inherentes a los datos. Las encuestas pueden introducir sesgos de percepción o recuerdo. Además, no incluyen información sobre factores como acceso a servicios de salud mental o discriminación, que podrían enriquecer el análisis. Pese a estas limitaciones, los datos disponibles son suficientemente robustos para explorar patrones y formular hipótesis valiosas que permitan contar esta historia.
+
+Para guiar el análisis, se proponen las siguientes hipótesis:
+
+1.  **Aceptación generacional:** Los jóvenes son más abiertos a hablar de su salud mental en comparación con los adultos, quienes podrían preferir no responder.
+
+2.  **Hábitos y alfabetización:** El alcoholismo y el tabaquismo tienen un impacto negativo en la alfabetización.
+
+3.  **Diferencias por edad:** La alfabetización disminuye conforme aumenta la edad, mostrando un menor porcentaje de personas mayores alfabetas.
+
+Estas hipótesis se abordan en el dashboard a través de visualizaciones interactivas que exploran cómo las condiciones de salud mental podrían estar asociadas con las métricas educativas.
+:::
